@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fsc-bt1026c(蓝牙模块)")(type "KiCad")(uri "${KIPRJMOD}/lib/FSC_BT106/fsc-bt1026c(蓝牙模块).kicad_sym")(options "")(descr ""))
+  (lib (name "usbc male")(type "KiCad")(uri "${KIPRJMOD}/EasyEDA.kicad_sym")(options "")(descr ""))
+  (lib (name "ceramic_antenna")(type "KiCad")(uri "/Users/shoaib/Desktop/Daronjli_necklace/lib/ceramic_antenna/ceramic_antenna.kicad_sym")(options "")(descr ""))
+  (lib (name "usbc_vertical")(type "KiCad")(uri "${KIPRJMOD}/lib/usbc_vertical/.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "date": "2026-05-18T04:09:29",
+    "generator": "KiCad 10.0.1",
+    "project": "daronjli_dongle",
+    "board_name": "daronjli_dongle"
+  },
+  "board": {
+    "has_outline": true,
+    "width": "23.2620 mm",
+    "height": "28.3900 mm",
+    "area": "649.888 mm²",
+    "front_component_density": "227.37",
+    "back_component_density": "40.24",
+    "front_copper_area": "482.64 mm²",
+    "back_copper_area": "486.618 mm²",
+    "min_track_clearance": "0.2000 mm",
+    "min_track_width": "0.1520 mm",
+    "min_drill_diameter": "0.3000 mm",
+    "board_thickness": "1.6000 mm",
+    "front_footprint_area": "1477.626 mm²",
+    "back_footprint_area": "261.53 mm²",
+    "front_footprint_density": "227.37",
+    "back_footprint_density": "40.24"
+  },
+  "pads": {
+    "through_hole": 20,
+    "smd": 218,
+    "connector": 0,
+    "npth": 0,
+    "castellated": 0,
+    "press_fit": 0
+  },
+  "vias": {
+    "through": 86,
+    "blind": 0,
+    "buried": 0,
+    "micro": 0
+  },
+  "components": {
+    "tht": {
+      "front": 0,
+      "back": 1,
+      "total": 1
+    },
+    "smd": {
+      "front": 4,
+      "back": 41,
+      "total": 45
+    },
+    "unspecified": {
+      "front": 3,
+      "back": 7,
+      "total": 10
+    },
+    "total": {
+      "front": 7,
+      "back": 49,
+      "total": 56
+    }
+  },
+  "drill_holes": [
+    {
+      "count": 86,
+      "shape": "Round",
+      "x_size": "0.3000 mm",
+      "y_size": "0.3000 mm",
+      "plated": true,
+      "source": "Via",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 16,
+      "shape": "Round",
+      "x_size": "0.4000 mm",
+      "y_size": "0.4000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 4,
+      "shape": "Slot",
+      "x_size": "0.6000 mm",
+      "y_size": "1.2000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    }
+  ]
+}
