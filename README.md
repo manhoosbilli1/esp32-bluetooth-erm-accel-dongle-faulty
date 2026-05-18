@@ -5,9 +5,9 @@ ESP32 Bluetooth dongle with ERM haptic motor and accelerometer - FAULTY: wrong O
 ## At a Glance
 
 - **Status**: Manufactured
-- **Board size**: (unknown)
+- **Board size**: 23.26 x 28.39 mm
 - **Layers**: 4
-- **Components**: ?
+- **Components**: 56
 - **Key ICs**:
   - U1: MCP73831-2-MC
   - U2: CP2102N-Axx-xQFN24
